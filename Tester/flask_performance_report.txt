@@ -1,0 +1,19 @@
+
+    Flask Performance Report - 2024-12-11 12:55:33
+    -------------------------------------------------
+    Initial Memory Usage: 35.01 MB
+    Final Memory Usage: 35.93 MB
+    Initial CPU Usage: 10.70%
+    Final CPU Usage: 14.80%
+    Initial Disk Usage: 1.60%
+    Final Disk Usage: 1.60%
+    Initial Network Sent: 68.06 MB
+    Final Network Sent: 68.06 MB
+    Initial Network Received: 696.96 MB
+    Final Network Received: 696.96 MB
+    System Uptime: 26 hours, 10 minutes
+    Average Response Time: 0.0206 seconds
+    Response Times: [0.023900270462036133, 0.012222051620483398, 0.005998134613037109, 0.005637645721435547, 0.10986828804016113, 0.010646581649780273, 0.011090517044067383, 0.010995864868164062, 0.00770258903503418, 0.0077936649322509766]
+    Throughput: 48.58 requests/second
+    Total Time: 0.21 seconds
+    
